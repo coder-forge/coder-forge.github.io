@@ -1,5 +1,5 @@
 # coder-forge
-[http://daithi-coombes.github.io/coder-forge](http://daithi-coombes.github.io/coder-forge)
+[http://coder-forge.github.io](http://coder-forge.github.io)
 
 A place to learn how to forge out code, to smyth out patterns and designs.
 Complete beginners welcome, bring your own laptop.
