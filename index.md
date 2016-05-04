@@ -14,6 +14,6 @@ programmers (guru's).</p>
 meetups will be on an open door basis.</p>
 
 <p>As you can see this site is a work in progress, as is the project on a whole,
-but please do drop into our next <a href="http://www.meetup.com/Dublin-Coder-Forge/events/227966239/">meetup</a> and see what it is all about.</p>
+but please do drop into our next <a href="http://www.meetup.com/Dublin-Coder-Forge/events/227966239/">forge</a> and see what it is all about.</p>
 
-<p><a href="mailto:daithi.coombes@futureanlaytics.ie">contact us</a></p>
+<p><a href="mailto:coderforge.dublin@gmail.com">contact us</a></p>
